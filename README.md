@@ -62,5 +62,5 @@ Bu proje MIT lisansı altındadır.
 
 ---
 
-Hazırlayan: \[Sizin Adınız]
+Hazırlayan: Erenalp Yılmaz
 Proje: Canlı Yüz Tanıma Sistemi
